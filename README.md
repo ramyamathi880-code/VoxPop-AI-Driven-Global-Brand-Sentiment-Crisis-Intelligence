@@ -1,5 +1,4 @@
 ### VoxPop-AI-Driven-Global-Brand-Sentiment-Crisis-Intelligence
-# VoxPop: AI-Driven Global Brand Sentiment & Crisis Intelligence
 
 ## 📌 Project Overview
 
